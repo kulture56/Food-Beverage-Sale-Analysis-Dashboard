@@ -1,5 +1,6 @@
-
 # 📊 Food & Beverage Sales Analysis - Power BI
+
+![Food   Beverage Sales Analysis - Power BI](https://github.com/user-attachments/assets/986bee3b-6479-4c7c-96be-dd26a71dca7e)
 
 ## Overview
 
