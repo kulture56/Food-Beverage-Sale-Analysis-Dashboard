@@ -1,4 +1,5 @@
 #📊 Food & Beverage Sales Analysis - Power BI
+
 **Overview**
 This Power BI project provides an interactive dashboard for analyzing sales data in the food & beverage industry. It offers key insights into revenue, orders, sales channels, and top-performing sales representatives.
 
