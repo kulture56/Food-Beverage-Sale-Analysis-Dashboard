@@ -21,4 +21,9 @@ This Power BI project provides an interactive dashboard for analyzing sales data
 **💡 Why Power BI?**
 * Automation – Reduces manual Excel work by dynamically updating data.
 * Interactive Dashboards – Provides real-time, drill-down insights for better decision-making.
-* Simplified Reporting – Streamlines complex data into intuitive visualizations. 
+* Simplified Reporting – Streamlines complex data into intuitive visualizations.
+
+**🛠️ Tools & Technologies**
+* Power BI – Data visualization and reporting.
+* Excel – Data cleaning and preprocessing.
+* DAX & Power Query – Data modeling and transformation.
